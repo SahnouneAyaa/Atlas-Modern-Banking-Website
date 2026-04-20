@@ -24,5 +24,6 @@ The goal was to step beyond my usual design approach and experiment with stronge
 ## Tech Stack
 
 - Next.js
+- TypeScript
 - Framer Motion
 - Figma (Design & Prototyping)
