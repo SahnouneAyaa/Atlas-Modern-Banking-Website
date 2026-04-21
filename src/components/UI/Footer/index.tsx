@@ -83,7 +83,7 @@ const Footer = () => {
             </Translator>
             <CopyRight>
               <Image src={ic_copyright} alt="copyright svg" />
-              atlas Corp, LLC.
+              Sahnoune Aya.
             </CopyRight>
           </FooterBottom>
         </FooterMainContent>
